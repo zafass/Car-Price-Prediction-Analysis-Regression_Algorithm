@@ -26,8 +26,8 @@ This project aims to help a Chinese automobile company entering the US market un
 * Support Vector Regressor (SVR)
   
 ### Model Evaluation:
-*Compared models based on R-squared, MAE, and RMSE.
-*Selected the best-performing model for prediction.
+* Compared models based on R-squared, MAE, and RMSE.
+* Selected the best-performing model for prediction.
 
 ### Feature Importance:
 * Identified the most critical variables affecting car prices (e.g., curbweight, enginesize, horsepower).
